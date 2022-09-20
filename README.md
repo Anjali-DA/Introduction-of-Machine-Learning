@@ -14,3 +14,13 @@
 
 **6.** Relation between First floor & Sales Price
 
+**7.** Relation between total bath rooms & Sales Price
+
+**8.** Relation between Total rooms & Sales Price
+
+**9.** Relation between Orignal construction year & Sales Price
+
+**10.** Calculating Mean Absolute Error, Mean Square Error,& Root Mean Square Calculation by Decision Tree Regresion, Random Forest Regressor & Light Gradient Boosting.
+
+
+
