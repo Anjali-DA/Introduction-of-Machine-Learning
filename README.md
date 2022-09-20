@@ -22,7 +22,7 @@
 
 **10.** Calculating Mean Absolute Error, Mean Square Error,& Root Mean Square Calculation by Decision Tree Regresion, Random Forest Regressor & Light Gradient Boosting.
 
-# 💡How I approched to solve this dataset
+## 💡How I approched to solve this dataset
 **1.** Importing libraries from  for dataframe 
 ``` python
 import pandas as pd
