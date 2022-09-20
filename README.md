@@ -22,5 +22,31 @@
 
 **10.** Calculating Mean Absolute Error, Mean Square Error,& Root Mean Square Calculation by Decision Tree Regresion, Random Forest Regressor & Light Gradient Boosting.
 
-
+# 💡How I approched to solve this dataset
+**1.** Importing libraries from  for dataframe 
+``` python
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import warnings
+warnings.filterwarnings('ignore')
+sns.set(style='white', context='notebook', palette='deep')
+%config InlineBackend.figure_format = 'retina' #set 'png' here when working on notebook
+%matplotlib inline
+```
+**2.** Importing Libraries for machine learning
+``` python
+from sklearn.linear_model import LogisticRegression, LinearRegression
+from sklearn.model_selection import cross_val_score
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+from sklearn import ensemble
+from sklearn.utils import shuffle
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.tree import DecisionTreeRegressor
+import lightgbm as lgb
+```
 
