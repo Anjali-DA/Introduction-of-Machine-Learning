@@ -35,7 +35,8 @@ sns.set(style='white', context='notebook', palette='deep')
 %config InlineBackend.figure_format = 'retina' #set 'png' here when working on notebook
 %matplotlib inline
 ```
-**2.** Importing Libraries for machine learning
+**2.** 
+- Importing Libraries for machine learning
 ``` python
 from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.model_selection import cross_val_score
@@ -49,4 +50,5 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.tree import DecisionTreeRegressor
 import lightgbm as lgb
 ```
-
+- Dropping 'Id' from train & test data as it is not necessary for further analysis & prediction.
+- Creating int data type columns into train_df & test_df.
