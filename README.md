@@ -35,7 +35,6 @@ sns.set(style='white', context='notebook', palette='deep')
 %config InlineBackend.figure_format = 'retina' #set 'png' here when working on notebook
 %matplotlib inline
 ```
-**2.** 
 - Importing Libraries for machine learning
 ``` python
 from sklearn.linear_model import LogisticRegression, LinearRegression
