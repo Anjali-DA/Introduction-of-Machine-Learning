@@ -52,8 +52,8 @@ import lightgbm as lgb
 - Dropping 'Id' from train & test data because it is not necessary for further analysis & prediction.
 - Creating/selecting **int** data type columns into train_df & test_df.
 
-## 🖥️Finding correlation & outliers
-**💡2.** Relation with Overall house quality and Sales price
+## 🖥️2. Finding correlation & outliers
+💡 Relation with Overall house quality and Sales price
 
 **Output:** 
 - In this correlation, Overall quality of the house increases with increase in price
