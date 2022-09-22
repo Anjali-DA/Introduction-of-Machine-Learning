@@ -22,8 +22,8 @@
 
 **10.** Calculating Mean Absolute Error, Mean Square Error,& Root Mean Square Calculation by Decision Tree Regresion, Random Forest Regressor & Light Gradient Boosting.
 
-## 💡How I approched to solve this dataset
-**1.** Importing libraries from  for dataframe 
+## 🖥️How I approched to solve this dataset
+**💡1.** Importing libraries from  for dataframe 
 ``` python
 import pandas as pd
 import numpy as np
@@ -49,5 +49,13 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.tree import DecisionTreeRegressor
 import lightgbm as lgb
 ```
-- Dropping 'Id' from train & test data as it is not necessary for further analysis & prediction.
-- Creating int data type columns into train_df & test_df.
+- Dropping 'Id' from train & test data because it is not necessary for further analysis & prediction.
+- Creating/selecting **int** data type columns into train_df & test_df.
+
+## 🖥️Finding correlation & outliers
+**💡2.** Relation with Overall house quality and Sales price
+
+**Output:** 
+- In this correlation, Overall quality of the house increases with increase in price
+- There are no outliers as both of them increases proportionally.
+
