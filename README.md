@@ -23,7 +23,7 @@
 **10.** Calculating Mean Absolute Error, Mean Square Error,& Root Mean Square Calculation by Decision Tree Regresion, Random Forest Regressor & Light Gradient Boosting.
 
 ## 🖥️How I approched to solve this dataset
-**💡1.** Importing libraries from  for dataframe 
+💡 **Importing libraries from  for dataframe** 
 ``` python
 import pandas as pd
 import numpy as np
@@ -35,7 +35,7 @@ sns.set(style='white', context='notebook', palette='deep')
 %config InlineBackend.figure_format = 'retina' #set 'png' here when working on notebook
 %matplotlib inline
 ```
-- Importing Libraries for machine learning
+**Importing Libraries for machine learning**
 ``` python
 from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.model_selection import cross_val_score
@@ -52,10 +52,18 @@ import lightgbm as lgb
 - Dropping 'Id' from train & test data because it is not necessary for further analysis & prediction.
 - Creating/selecting **int** data type columns into train_df & test_df.
 
-## 🖥️2. Finding correlation & outliers
-💡 Relation with Overall house quality and Sales price
+## 🖥️ Finding correlation & outliers
+
+- For finding the correlation I used seaborn **barplot** & **jointplot**.
+- To remove the outliers I used drop & reset_index function.
+
+💡 **Relation between Overall house quality and Sales price**
 
 **Output:** 
 - In this correlation, Overall quality of the house increases with increase in price
-- There are no outliers as both of them increases proportionally.
+- There are no outliers as both of the features increases proportionally.
 
+💡 **Relation between Ground living area and Sales price**
+
+**Output:**
+In this correlation, with increase in ground living area, Sales price also increases but I spotted two points where increase in ground living area, sales price decreases.Hence, There are outliers and I have removed them by using drop function.
