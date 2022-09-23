@@ -71,4 +71,5 @@ In this correlation, with increase in ground living area, Sales price also incre
 *pic-1: correlation with outliers*
 
 <img width="449" alt="__results___20_1" src="https://user-images.githubusercontent.com/98269318/191994543-30bee187-c590-4d7a-8304-1291e999d941.png">
+
 *pic-2: correlation without outliers*
