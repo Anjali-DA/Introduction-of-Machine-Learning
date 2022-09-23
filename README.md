@@ -67,3 +67,7 @@ import lightgbm as lgb
 
 **Output:**
 In this correlation, with increase in ground living area, Sales price also increases but I spotted two points where increase in ground living area, sales price decreases.Hence, There are outliers and I have removed them by using drop function.
+<img width="449" alt="__results___23_1" src="https://user-images.githubusercontent.com/98269318/191994496-22471d8c-f239-44a3-9bc3-62bc6ead0fb6.png">
+
+<img width="449" alt="__results___20_1" src="https://user-images.githubusercontent.com/98269318/191994543-30bee187-c590-4d7a-8304-1291e999d941.png">
+
