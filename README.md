@@ -73,3 +73,8 @@ In this correlation, with increase in ground living area, Sales price also incre
 <img width="449" alt="__results___20_1" src="https://user-images.githubusercontent.com/98269318/191994543-30bee187-c590-4d7a-8304-1291e999d941.png">
 
 *pic-2: correlation without outliers*
+
+💡 **Relation between Garage cars & Sales price**
+In this correlation, with increase in garage capacity, sales price also increases, but I spotted a bar where garage capacity increases with decrease in sales price which doesn't seem fit in this analysis.
+
+<img width="417" alt="__results___25_0" src="https://user-images.githubusercontent.com/98269318/192113087-63d8c8e8-22b8-40e0-8157-bf01f159480f.png">
