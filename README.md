@@ -83,5 +83,6 @@ In this correlation, with increase in garage capacity, sales price also increase
 *pic-1: correlation with outliers*
 
 <img width="417" alt="__results___28_0" src="https://user-images.githubusercontent.com/98269318/192146346-74725b1a-6584-45a9-8201-4baa79318d88.png">
+
 *pic-2: correlation without outliers*
 
