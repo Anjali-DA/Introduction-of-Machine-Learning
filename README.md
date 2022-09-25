@@ -57,13 +57,13 @@ import lightgbm as lgb
 - For finding the correlation I used seaborn **barplot** & **jointplot**.
 - To remove the outliers I used drop & reset_index function.
 
-💡 ### Relation between Overall house quality and Sales price
+### 💡Relation between Overall house quality and Sales price
 
 **Output:** 
 - In this correlation, Overall quality of the house increases with increase in price
 - There are no outliers as both of the features increases proportionally.
 
-💡 ### Relation between Ground living area and Sales price
+### 💡Relation between Ground living area and Sales price
 
 **Output:**
 In this correlation, with increase in ground living area, Sales price also increases but I spotted two points where increase in ground living area, sales price decreases.Hence, There are outliers and I had removed them by using drop function.
@@ -74,7 +74,7 @@ In this correlation, with increase in ground living area, Sales price also incre
 
 *pic-2: correlation without outliers*
 
-💡 ### Relation between Garage cars & Sales price
+### 💡Relation between Garage cars & Sales price
 
 In this correlation, with increase in garage capacity, sales price also increases, but I spotted a bar where **garage capacity increases** with **decrease in sales price** which doesn't seem fit in this analysis. Hence it has a extra outlier in a bar graph and I had removed it by using drop function.
 
