@@ -66,7 +66,7 @@ import lightgbm as lgb
 💡 **Relation between Ground living area and Sales price**
 
 **Output:**
-In this correlation, with increase in ground living area, Sales price also increases but I spotted two points where increase in ground living area, sales price decreases.Hence, There are outliers and I have removed them by using drop function.
+In this correlation, with increase in ground living area, Sales price also increases but I spotted two points where increase in ground living area, sales price decreases.Hence, There are outliers and I had removed them by using drop function.
 <img width="449" alt="__results___23_1" src="https://user-images.githubusercontent.com/98269318/191994496-22471d8c-f239-44a3-9bc3-62bc6ead0fb6.png">
 *pic-1: correlation with outliers*
 
@@ -76,6 +76,11 @@ In this correlation, with increase in ground living area, Sales price also incre
 
 💡 **Relation between Garage cars & Sales price**
 
-In this correlation, with increase in garage capacity, sales price also increases, but I spotted a bar where garage capacity increases with decrease in sales price which doesn't seem fit in this analysis.
+In this correlation, with increase in garage capacity, sales price also increases, but I spotted a bar where **garage capacity increases** with **decrease in sales price** which doesn't seem fit in this analysis. Hence it has a extra outlier in a bar graph and I had removed it by using drop function.
 
 <img width="417" alt="__results___25_0" src="https://user-images.githubusercontent.com/98269318/192113087-63d8c8e8-22b8-40e0-8157-bf01f159480f.png">
+*pic-1: correlation with outliers*
+
+<img width="417" alt="__results___28_0" src="https://user-images.githubusercontent.com/98269318/192146346-74725b1a-6584-45a9-8201-4baa79318d88.png">
+*pic-2: correlation without outliers*
+
