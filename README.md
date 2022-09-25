@@ -79,6 +79,7 @@ In this correlation, with increase in ground living area, Sales price also incre
 In this correlation, with increase in garage capacity, sales price also increases, but I spotted a bar where **garage capacity increases** with **decrease in sales price** which doesn't seem fit in this analysis. Hence it has a extra outlier in a bar graph and I had removed it by using drop function.
 
 <img width="417" alt="__results___25_0" src="https://user-images.githubusercontent.com/98269318/192113087-63d8c8e8-22b8-40e0-8157-bf01f159480f.png">
+
 *pic-1: correlation with outliers*
 
 <img width="417" alt="__results___28_0" src="https://user-images.githubusercontent.com/98269318/192146346-74725b1a-6584-45a9-8201-4baa79318d88.png">
