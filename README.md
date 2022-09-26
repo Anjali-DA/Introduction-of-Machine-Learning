@@ -3,7 +3,11 @@
 
 ## 🖥️Purpose of this prediction
 **1.** Finding correlation with sales price and outliers.
-**2** Filling up the missing data in the train dataset
-**3** Fitting & transforming the test & train data
-**4** Predicting the dataset in linear regression, Random forest regression, Decision tree             regression, Light gradient boosting.
 
+**2** Filling up the missing data in the train dataset
+
+**3** Fitting & transforming the test & train data
+
+**4** Predicting the dataset in linear regression, Random forest regression, Decision tree regression, Light gradient boosting.
+
+## 🖥️ How I approached to solve this dataset
