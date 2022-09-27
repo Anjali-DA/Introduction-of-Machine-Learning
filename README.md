@@ -11,3 +11,9 @@
 **4** Predicting the dataset in linear regression, Random forest regression, Decision tree regression, Light gradient boosting.
 
 ## 🖥️ How I approached to solve this dataset
+- Imported the libraries and datasets
+- Dropped 'Id' column as it is unnecessary for the prediction.
+- Created test_df and train_df to do the supervised learning with this datasets.
+- Found the most correlated features by using *corr* feature.
+- Found the outliers and relations between correlated features and Sales price.
+- By using *.isnull().sum().sort_values()*
