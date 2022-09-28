@@ -16,4 +16,5 @@
 - Created test_df and train_df to do the supervised learning with this datasets.
 - Found the most correlated features by using *corr* feature.
 - Found the outliers and relations between correlated features and Sales price.
-- By using *.isnull().sum().sort_values()*
+- By using *.isnull().sum().sort_values()*, I found the missing values in train & test data.
+- 
