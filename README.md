@@ -17,4 +17,4 @@
 - Found the most correlated features by using *corr* feature.
 - Found the outliers and relations between correlated features and Sales price.
 - By using *.isnull().sum().sort_values()*, I found the missing values in train & test data.
-- 
+- Splitted the dataset into train and test with *train_test_split* 
