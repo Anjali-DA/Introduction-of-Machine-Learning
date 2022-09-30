@@ -18,3 +18,6 @@
 - Found the outliers and relations between correlated features and Sales price.
 - By using *.isnull().sum().sort_values()*, I found the missing values in train & test data.
 - Splitted the dataset into train and test with *train_test_split* 
+- Reshaped the train & test dataset with *reshape(-1,1)*
+- With *StandardScaler*, I transofermed the data into fit data. StandardScaler is also called as a Feature scaling, if it is not done, then a ML algorithm tends to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
+- 
