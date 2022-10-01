@@ -19,10 +19,17 @@
 - By using *.isnull().sum().sort_values()*, I found the missing values in train & test data.
 - Splitted the dataset into train and test with *train_test_split* 
 - Reshaped the train & test dataset with *reshape(-1,1)*
-- With *StandardScaler*, I transofermed the data into fit data. **StandardScaler** is also called as a Feature scaling, if it is not done, then a ML algorithm tends to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
-- With *LinearRegression()* I calculated the MAE(Mean Absolute error), MSE(Mean Square Error) & RMSE(Root Mean Square Error). 
+- With *StandardScaler*, I transofermed the data into fit data. *StandardScaler* is also called as a Feature scaling, if it is not done, then a ML algorithm tends to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
+- With *LinearRegression()* , *RandomForestRegressor()*  , *LGBRegressor()* (Light Gradient Boosting), I calculated the **MAE(Mean Absolute error)**, **MSE(Mean Square Error)** & **RMSE(Root Mean Square Error)**. 
+
 **Values calculated with Linear Regression**:
 
 ![linear](https://user-images.githubusercontent.com/98269318/193422748-5593fafa-7c60-4d17-8ef1-6ef0dd7dbd7c.png)
 
-- 
+**Values calculated with Random Forest Regression**:
+
+![random](https://user-images.githubusercontent.com/98269318/193423329-78c924f3-2d9b-465d-a3a2-a9ad448ec499.png)
+
+**Values calculated with Light Gradient Boosting Regression**:
+
+![light](https://user-images.githubusercontent.com/98269318/193423372-7b1b8b29-d6b7-4906-8800-6753559499d0.png)
