@@ -33,3 +33,11 @@
 **Values calculated with Light Gradient Boosting Regression**:
 
 ![light](https://user-images.githubusercontent.com/98269318/193423372-7b1b8b29-d6b7-4906-8800-6753559499d0.png)
+
+Conclusion:
+
+**The best prediction model can be predicted by Light Gradient Boosting(LGB).**
+
+Out of RFR, DTR & LGB, *LGB* gave the least mean square error i.e. 0.155
+
+### Thank you!
