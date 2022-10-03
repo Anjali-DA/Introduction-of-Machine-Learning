@@ -38,6 +38,8 @@
 
 **The best prediction model can be predicted by Light Gradient Boosting(LGB).**
 
-Out of RFR, DTR & LGB, *LGB* gave the least mean square error i.e. 0.155
+Out of RFR, DTR & LGB, *LGB* gave the least Root mean square error i.e. 0.393.
+
+**Note:** RMSE is widely used than MSE to evaluate the performance of the regression model with other random models as it has the same units as the dependent variable (Y-axis).
 
 ### Thank you!
