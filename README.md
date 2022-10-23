@@ -3,10 +3,15 @@
 ## 🖥️Why Machine learning?
 Starting Machine Learning, the dataset goes through seven stages:
 **1.** Question or problem defination
+
 **2** Acquire training and testing dataset
+
 **3** Wrangle, prepare, cleanse the data.
+
 **4** Analyze, identify patterns and explore the data.
+
 **5** Model, predict and solve the problem.
+
 **6.** Visualize, report and present the problem solving steps and final solution.
 
 ## 🖥️7 C's major goals in data science: 
