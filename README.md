@@ -10,32 +10,65 @@ Starting Machine Learning, the dataset goes through seven stages:
 **6.** Visualize, report and present the problem solving steps and final solution.
 
 ## 🖥️7 C's major goals in data science: 
-Classifying
-Correlating
-Converting
-Completing
-Correcting
-Creating
-Charting
+- Classifying
+
+- Correlating
+
+- Converting
+
+- Completing
+
+- Correcting
+
+- Creating
+
+- Charting
 
 ## 🖥️Skitlearn in Machine learning:
 **1.linear_model:**
+
 - LogisticRegression
+
 - LinearRegression
-**2.svm(Support Vector Machine)**
+
+-SGDClassifier
+
+-Perceptron
+
+**2.svm(Support Vector Machine)**:
+
+- LinearSVC
+
 **3.ensemble**
+
 - RandomForestRegressor
+
 **4.neighbors**
+
+- KNeighborsClassifier
+
 **5.naive_bayes**
+
 **6.tree**
+
 - DecisionTreeRegressor
+
 **7.metrics**
+
 - mean_squared_error
+
 - r2_score
+
 **8**.utils
+
 - shuffle
-**9**.model_selection:
+
+**9.model_selection:**
+
 - cross_val_score
+
 - train_test_split
+
 **10.preprocessing**
+
 - StandardScaler
