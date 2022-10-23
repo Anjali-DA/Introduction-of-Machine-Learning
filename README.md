@@ -22,14 +22,13 @@ Starting Machine Learning, the dataset goes through seven stages:
 - Converting
 
 - Completing
-
 - Correcting
 
 - Creating
 
 - Charting
 
-## 🖥️Skitlearn in Machine learning:
+## 🖥️Algorithms used in Machine learning:
 **1.** sklearn.linear_model
 
 **2.** sklearn.svm 
@@ -50,3 +49,4 @@ Starting Machine Learning, the dataset goes through seven stages:
 
 **10.** preprocessing
 
+**11.**
