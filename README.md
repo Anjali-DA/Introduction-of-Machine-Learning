@@ -30,50 +30,23 @@ Starting Machine Learning, the dataset goes through seven stages:
 - Charting
 
 ## 🖥️Skitlearn in Machine learning:
-**1.linear_model:**
+**1.** sklearn.linear_model
 
-- LogisticRegression
+**2.** sklearn.svm 
 
-- LinearRegression
+**3.** sklearn.ensemble
 
--SGDClassifier
+**4.** sklearn.neighbors
 
--Perceptron
+**5.** sklearn.naive_bayes
 
-**2.svm(Support Vector Machine)**:
+**6.** sklearn.tree
 
-- LinearSVC
+**7.** sklearn.metrics
 
-**3.ensemble**
+**8.** sklearn.utils
 
-- RandomForestRegressor
+**9.** model_selection
 
-**4.neighbors**
+**10.** preprocessing
 
-- KNeighborsClassifier
-
-**5.naive_bayes**
-
-**6.tree**
-
-- DecisionTreeRegressor
-
-**7.metrics**
-
-- mean_squared_error
-
-- r2_score
-
-**8**.utils
-
-- shuffle
-
-**9.model_selection:**
-
-- cross_val_score
-
-- train_test_split
-
-**10.preprocessing**
-
-- StandardScaler
