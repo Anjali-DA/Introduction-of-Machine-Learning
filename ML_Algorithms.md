@@ -17,6 +17,7 @@
 ### When to use regression?
 A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”. Many different models/algorithms can be used, the simplest is linear regression.
 It tries to fit data with the best hyperplane which goes through the points.
+
 *Hyperplane: is the decison boundries helps to cakssify/categorised the data points.*
 
 ### Types of regression
