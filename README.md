@@ -29,28 +29,5 @@ Starting Machine Learning, the dataset goes through seven stages:
 - Creating
 - Charting
 
-## 🤖Algorithms used in Machine learning:
-**1.** sklearn.linear_model
-
-**2.** sklearn.svm 
-
-**3.** sklearn.ensemble
-
-**4.** sklearn.neighbors
-
-**5.** sklearn.naive_bayes
-
-**6.** sklearn.tree
-
-**7.** sklearn.metrics
-
-**8.** sklearn.utils
-
-**9.** model_selection
-
-**10.** preprocessing
-
-**11.** lightgbm
-
 ## 🤖Mini projects based on Machine Learning
 **1.** House Pricing_advanced analysis- [click](https://8weeksqlchallenge.com/case-study-1/)
