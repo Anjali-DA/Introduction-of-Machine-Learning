@@ -21,3 +21,5 @@ It tries to fit data with the best hyperplane which goes through the points.
 *Hyperplane: is the decison boundries helps to cakssify/categorised the data points.*
 
 ### Types of regression
+**Logistic Regression:** Logistic Regression is a useful model to run early in the workflow. Logistic regression measures the relationship between the categorical dependent variable (feature) and one or more independent variables (features) by estimating probabilities using a logistic function, which is the cumulative logistic distribution. 
+
