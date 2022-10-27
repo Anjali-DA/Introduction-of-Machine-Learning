@@ -21,13 +21,14 @@ It tries to fit data with the best hyperplane which goes through the points.
 *Hyperplane: is the decison boundries helps to cakssify/categorised the data points.*
 
 ### Types of regression
-**- Logistic Regression**
+- **Logistic Regression**
 
 Logistic regression measures the relationship between the categorical dependent variable (feature) and one or more independent variables (features) by estimating probabilities using a logistic function, which is the cumulative logistic distribution. 
 
 Logistic regression is basically a **supervised classification** algorithm. In a classification problem, the target variable(or output), y, can take only discrete values for a given set of features(or inputs), X. Logistic regression is a regression model. The model builds a regression model to predict the probability that a given data entry belongs to the category numbered as “1”. Just like Linear regression assumes that the data follows a **linear function**, Logistic regression models the data using the **sigmoid function.**
 
-**- Perceptron Algorithm**
+- **Perceptron Algorithm**
+
 Perceptron Algorithm consists of a set of **weights**, **input values** or **scores,threshold,net sum, and an activation function.**.
 It is a building block of an **Artificial Neural Network** that helps to detect certain input data computations in business intelligence.
 It is a **linear Machine Learning** algorithm used for supervised learning for various binary classifiers.
