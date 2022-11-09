@@ -8,7 +8,7 @@
 
 **3** Fitting & transforming the test & train data
 
-**4** Predicting the dataset in linear regression, Random forest regression, Decision tree regression, Light gradient boosting.
+**4** Predicting the accuracy of the dataset in linear regression, Random forest regression, Decision tree regression, Light gradient boosting.
 
 ## 🖥️ How I approached to solve this dataset
 - Imported the libraries and datasets
