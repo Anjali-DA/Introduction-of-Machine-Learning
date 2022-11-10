@@ -1,4 +1,4 @@
-## ❄️Titanic_Survivers_Predictions
+## 📊Titanic_Survivers_Predictions
 
 ### 🔮Objectives 
 - Cleaning the dataset with the help of libraries like pandas and numpy
