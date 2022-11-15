@@ -1,24 +1,18 @@
-# Understanding of Machine Learning 
+# Getting started with Machine Learning 
 ## 🤖What is Machine Learning?
 Machine learning is a type of artificial intelligence that enables self-learning from data and then applies that learning without the need for human intervention.
 
-## 🤖Why Machine Learning is important?
-Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies.
+In Machine learning, algorithms are used to predic, get the accuracy score & plot the data points.
 
 ## 🤖 How does Machine learning works?
 Starting Machine Learning, the dataset goes through seven stages:
 
-**1.** Question or problem defination
-
-**2** Acquire training and testing dataset
-
-**3** Wrangle, prepare, cleanse the data.
-
-**4** Analyze, identify patterns and explore the data.
-
-**5** Model, predict and solve the problem.
-
-**6.** Visualize, report and present the problem solving steps and final solution.
+- Question or problem defination
+- Acquire training and testing dataset
+-Wrangle, prepare, cleanse the data.
+-Analyze, identify patterns and explore the data.
+-Model, predict and solve the problem.
+-Visualize, report and present the problem solving steps and final solution.
 
 ## 🤖7 C's major goals in data science: 
 - Classifying
