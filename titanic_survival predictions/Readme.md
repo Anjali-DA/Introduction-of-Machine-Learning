@@ -3,13 +3,11 @@
 - Cleaning the dataset with the help of libraries like pandas and numpy
 - Visualizing the dataset with matplotlib & seaborn
 - Predicting the highest accurcy of the model by machine learning algorithms
-
 ### Libraries used for data frame and visualizations
 - numpy
 - pandas
 - matplotlib.pyplot
 - seaborn
-
 ### ML algorithms I used for modeling & predicting
 - Logistic regression
 - Linear SVC
@@ -18,7 +16,6 @@
 - Random Forest Classifier
 - SGD Classifier
 - Perceptron
-
 ### How I soved the dataset
 - Claculated the passenges survival rate with different categories- Pclass, Embarked, SibSp & Parch by using the function **mean & group by**.
 - Dropped the **Ticket & Cabin** coulumns by using the feature **drop** because it has ni use in further predictions and visualizations
