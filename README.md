@@ -24,4 +24,5 @@ Visualize, report and present the problem solving steps and final solution.
 
 ## 🤖Mini projects based on Machine Learning
 **1.** House Pricing_advanced analysis- [click](https://8weeksqlchallenge.com/case-study-1/](https://github.com/Anjali-DA/Introduction-of-Machine-Learning/tree/main/House%20pricing_machine%20learning)
+
 **2.** Titanic survival prediction analysis- [click](https://github.com/Anjali-DA/Introduction-of-Machine-Learning/blob/main/titanic_survival%20predictions/Readme.md)
