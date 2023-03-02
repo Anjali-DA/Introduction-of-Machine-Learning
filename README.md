@@ -1,8 +1,7 @@
 # Getting started with Machine Learning 
 ## What is Machine Learning?
-Machine learning is a type of artificial intelligence that enables self-learning from data and then applies that learning without the need for human intervention.
-
-In Machine learning, algorithms are used to predic, get the accuracy score & plot the data points.
+- Machine learning is a type of artificial intelligence that enables self-learning from data and then applies that learning without the need for human intervention.
+- In Machine learning, algorithms are used to predic, get the accuracy score & plot the data points.
 
 ## How does Machine learning works?
 Starting Machine Learning, the dataset goes through seven stages:
