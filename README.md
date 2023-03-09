@@ -21,6 +21,8 @@ Visualize, report and present the problem solving steps and final solution.
 - Creating
 - Charting
 
+## What I concluded from this repo:
+
 ## 🤖Mini projects based on Machine Learning[Kaggle dataset]
 **1.** House Pricing_advanced analysis- [click](https://github.com/Anjali-DA/Introduction-of-Machine-Learning/tree/main/House%20pricing_machine%20learning)
 
